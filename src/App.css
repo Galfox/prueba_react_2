@@ -1,0 +1,15 @@
+.active{
+  text-decoration:none;
+  color: red;
+  font-weight: bold;
+  margin: 15px;
+  font-size: 25px;
+}
+
+.no_active{
+  text-decoration:none;
+  color: white;
+  font-weight: bold;
+  margin: 15px;
+  font-size: 25px;
+}
